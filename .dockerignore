@@ -1,0 +1,13 @@
+venv
+.git
+.env
+__pycache__
+*.pyc
+*.pyo
+.pytest_cache
+.cursor
+README.md
+loader.py
+Data
+requirements.txtpip
+requirements.txtpippip
